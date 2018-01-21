@@ -1,0 +1,11 @@
+TaleOfElvira/ProjectSettings/ProjectVersion.txt
+Library/
+Temp/
+*.sln
+*.suo
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+*.ide
